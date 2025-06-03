@@ -167,7 +167,7 @@ Shields the users in the internal servers from the uncontrolled zone.
 
 **PICTURE OF TCP DUMP**
 
-![TCP Dump](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/B-PaECh0ToSFgBWpFczYZg_4896abe8c06443f08eec4dc003dcf8f1_image.png?expiry=1748649600000&hmac=eeG5LemKAX8lLqKANBrl98kABar8sf9Fud3SN8zd0eE)
+![TCP Dump](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/B-PaECh0ToSFgBWpFczYZg_4896abe8c06443f08eec4d_)
 
 
 
