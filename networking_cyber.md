@@ -167,7 +167,8 @@ Shields the users in the internal servers from the uncontrolled zone.
 
 **PICTURE OF TCP DUMP**
 
-![TCP Dump](images/tcpdump.png)
+![TCP Dump](tcpdump.png)
+
 
 
 
