@@ -30,7 +30,7 @@ The **+** in your tcpdump shows the **"Recursion Desired"** flag is set — so y
 Is a network protocol used for monitoring and managing devices on a network. SNMP can reset a password on a network device or change its baseline configuration. Can be used for reporting how much bandwidth is being used 
 
 
-### nternet Control Message Protocol (ICMP)  
+### Internet Control Message Protocol (ICMP)  
 
 Its used for checking data transmission errors across the the network.
 Used to troubleshoot the network and latency by pinging. 
