@@ -21,7 +21,7 @@ The **+** in your tcpdump shows the **"Recursion Desired"** flag is set — so y
 
 ### HTTPS
 
-**Hyper Text Transfer Protocol** , Its a more secure way connection via web servers and client. It encrypts the data using `TLS/SSL` encryption methods. So if an attacker cant view the data during the transmission.
+**Hyper Text Transfer Protocol** , Its a more secure way connection via web servers and client. It encrypts the data using `TLS/SSL` encryption methods. So a attacker cant view the data during the transmission.
 `Application Layer`. This is a security protocol.
 
 
